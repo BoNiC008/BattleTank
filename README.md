@@ -2,4 +2,5 @@
 BattleTank
 
 ## Progress list
-**Create new project
+* Create new project
+* 
